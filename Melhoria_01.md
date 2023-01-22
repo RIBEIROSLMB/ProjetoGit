@@ -1,0 +1,3 @@
+Foi desenvolvido em paralelo a principal a seguinte melhoria:
+
+DESCREVER MELHORIA...
